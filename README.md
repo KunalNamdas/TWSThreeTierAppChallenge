@@ -8,6 +8,10 @@ The challenge involves deploying a Three-Tier Web Application using ReactJS, Nod
 - Basic knowledge of Docker, and AWS services.
 - An AWS account with necessary permissions.
 
+**Get The Challenge here**
+
+[![YouTube Video](https://img.youtube.com/vi/tvWQRTbMS1g/maxresdefault.jpg)](https://youtu.be/tvWQRTbMS1g?si=eki-boMemxr4PU7-)
+
 ## Challenge Steps
 - [Application Code](#application-code)
 - [Jenkins Pipeline Code](#jenkins-pipeline-code)
